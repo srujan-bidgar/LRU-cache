@@ -15,6 +15,7 @@ Demonstrating caching algorithms
 - [x] Eviction policy and its application
 - [x] How to come up with optimized code for a solution with less time complexity.
 - [x] A deeper understanding of how classes are implemented
+- [x] A brief understanding of how linked lists are utilized 
 
 # Challenges
 - [x] Making sure current functionality doesn't break while adding new features

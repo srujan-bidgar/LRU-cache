@@ -1,4 +1,10 @@
 // optimised solution
+// DS used : Linked Lists and HashMaps
+//-----------------------------------
+//           CONSIDERATIONS
+//-----------------------------------
+//start of LL (ater head) Most recent element
+//End of LL(before tail) Least used element
 
 #include <bits/stdc++.h>
 using namespace std;

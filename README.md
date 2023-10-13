@@ -28,7 +28,7 @@ Demonstrating caching algorithms
 # DAY2
 <img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/brute.jpeg" width="400" height="300" />
 
-<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/LRU1.png"  />
+<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/LRU1.png" />
 
 
 # Challenges

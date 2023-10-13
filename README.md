@@ -30,6 +30,10 @@ Demonstrating caching algorithms
 
 <img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/LRU1.png" />
 
+# DAY 3
+<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/optimised.jpeg" width="400" height="300" />
+
+<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/LRU2.png" />
 
 # Challenges
 - [x] Making sure current functionality doesn't break while adding new features

@@ -24,9 +24,9 @@ Demonstrating caching algorithms
 <img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/eviction%20policy.jpeg" width="400" height="300" />
 
 
+
 # DAY2
-
-
+<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/bruteforce.cpp" width="400" height="300" />
 
 
 

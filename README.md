@@ -3,7 +3,7 @@
 Demonstrating caching algorithms
 
 # Why its required
-- learning software developmemt cycle
+- learning software development cycle
 > unit testing,designing & coding
 - learning how caching algorithms work
 

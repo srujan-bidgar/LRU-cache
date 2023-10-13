@@ -18,10 +18,8 @@ Demonstrating caching algorithms
 - [x] A brief understanding of how linked lists are utilized
 
 # DAY1
+![cache](https://github.com/srujan-bidgar/LRU-cache/assets/139164617/e0a1e10f-df26-4479-b7a2-a8014bcbd983)![eviction policy](https://github.com/srujan-bidgar/LRU-cache/assets/139164617/37045bd0-f0ac-4289-a148-dfacc67c245b)
 
-![cache](https://github.com/srujan-bidgar/LRU-cache/assets/139164617/4dfe9546-9971-404d-9763-93211cc1632f)
-
-![eviction policy](https://github.com/srujan-bidgar/LRU-cache/assets/139164617/7c7f7f53-97f9-47c4-a6d3-b2f0f242a2e9)
 
 # DAY2
 

@@ -21,14 +21,14 @@ Demonstrating caching algorithms
 <img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/cache.jpeg" width="400" height="300" />
 
 
-<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/eviction%20policy.jpeg" width="500" height="400" />
+<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/eviction%20policy.jpeg" width="400" height="300"  />
 
 
 
 # DAY2
 <img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/brute.jpeg" width="400" height="300" />
 
-<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/LRU1.png" width="350" height="250"  />
+<img src="https://github.com/srujan-bidgar/LRU-cache/blob/main/images/LRU1.png"  />
 
 
 # Challenges
